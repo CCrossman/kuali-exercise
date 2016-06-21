@@ -8,6 +8,9 @@
     <option name="pathToConfigFileJava" value="$PROJECT_DIR$/../../OreillyAutoParts/ProposedFormatter-3.1.xml" />
     <option name="selectedJavaProfile" value="ProposedStandard 3.1" />
   </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
   <component name="JUnitGeneratorProjectSettings">
     <option name="combineGetterAndSetter" value="true" />
     <option name="selectedTemplateKey" value="JUnit 4" />
